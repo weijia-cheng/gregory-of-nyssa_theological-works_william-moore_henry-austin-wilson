@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 750">
-	<title>The titlepage for the Standard Ebooks edition of On the Making of Man, by Gregory of Nyssa. Translated by William Moore and Henry Austin Wilson</title>
+	<title>The titlepage for the Standard Ebooks edition of Theological Works, by Gregory of Nyssa. Translated by William Moore and Henry Austin Wilson</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -27,8 +27,8 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">ON THE</text>
-	<text class="title" x="700" y="230">MAKING OF MAN</text>
+	<text class="title" x="700" y="130">THEOLOGICAL</text>
+	<text class="title" x="700" y="230">WORKS</text>
 	<text class="author" x="700" y="390">GREGORY OF NYSSA</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
 	<text class="contributor" x="700" y="640">WILLIAM MOORE AND</text>
