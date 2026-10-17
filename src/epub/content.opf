@@ -103,7 +103,10 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/on-the-making-of-man.xhtml" id="on-the-making-of-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-the-soul-and-the-resurrection.xhtml" id="on-the-soul-and-the-resurrection.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -111,6 +114,9 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="on-the-making-of-man.xhtml"/>
+		<itemref idref="on-the-soul-and-the-resurrection.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
