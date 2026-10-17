@@ -35,6 +35,10 @@ p span.i14{
 	text-indent: 0;
 }
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 #on-the-soul-and-the-resurrection ul{
 	list-style-type: none;
 }
